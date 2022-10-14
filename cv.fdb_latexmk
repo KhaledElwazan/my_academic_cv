@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1661158327 "/home/khaled/Documents/CV/CV/cv.tex" "cv.pdf" "cv" 1661158328
-  "/home/khaled/Documents/CV/CV/cv.tex" 1661158327 9023 de009b43c8e919bd66e685a5abab590c ""
+["pdflatex"] 1665734750 "/home/khaled/Documents/CV/CV/cv.tex" "cv.pdf" "cv" 1665734750
+  "/home/khaled/Documents/CV/CV/cv.tex" 1665734749 9383 d6babfec736cbf72e7d45b4accedbbbc ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1650183167 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -77,8 +77,8 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1652525018 357936 09f08ee18eee769f278b144e28524592 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1652525017 2927660 f27d559f442ae538b2cc6da730277020 ""
-  "cv.aux" 1630945875 8 a94a2480d3289e625eea47cd1b285758 ""
-  "cv.tex" 1661158327 9023 de009b43c8e919bd66e685a5abab590c ""
+  "cv.aux" 1665734324 32 3985256e7290058c681f74d7a3565a19 ""
+  "cv.tex" 1665734749 9383 d6babfec736cbf72e7d45b4accedbbbc ""
   "resume.cls" 1515679002 26463 7b6624d8b78183b20a3d3a8ba8410d61 ""
   (generated)
   "cv.log"
