@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1665734876 "/home/khaled/Documents/CV/CV/cv.tex" "cv.pdf" "cv" 1665734876
-  "/home/khaled/Documents/CV/CV/cv.tex" 1665734876 9389 7699f8593a112e8b1a36762ab6d6a62f ""
+["pdflatex"] 1673790358 "/home/khaled/Documents/CV/CV/cv.tex" "cv.pdf" "cv" 1673790359
+  "/home/khaled/Documents/CV/CV/cv.tex" 1673790358 9571 9e67daef563b57c5b546a3bf39605ace ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1650183167 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -75,10 +75,10 @@
   "/usr/share/texmf-dist/tex/latex/url/url.sty" 1650183167 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1650181202 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1652525018 357936 09f08ee18eee769f278b144e28524592 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1652525017 2927660 f27d559f442ae538b2cc6da730277020 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1668504240 357936 09f08ee18eee769f278b144e28524592 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1668504236 2927662 895c3e6295919b9f67babac2d4e75d2f ""
   "cv.aux" 1665734324 32 3985256e7290058c681f74d7a3565a19 ""
-  "cv.tex" 1665734876 9389 7699f8593a112e8b1a36762ab6d6a62f ""
+  "cv.tex" 1673790358 9571 9e67daef563b57c5b546a3bf39605ace ""
   "resume.cls" 1515679002 26463 7b6624d8b78183b20a3d3a8ba8410d61 ""
   (generated)
   "cv.log"
